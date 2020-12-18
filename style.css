@@ -1,0 +1,83 @@
+html, body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin: 0;
+    min-height: 180px;
+    padding: 0;
+    width: 384px;
+}
+
+h1 {
+    font-family: 'Menlo', monospace;
+    font-size: 35px;
+    font-weight: 400;
+    margin: 0;
+    color: #6dbefc;
+}
+
+a:link, a:visited {
+    color: black;
+    outline: 0;
+    text-decoration: none;
+}
+
+img {
+    width: 30px;
+}
+
+.header {
+    text-align: center;
+    border-bottom: 0.5px solid #dadada;
+}
+
+.icons {
+    border-top: 0.5px solid #dadada;
+    height: 50px;
+    width: 100%;
+    border-bottom: 0.5px solid #dadada;
+    padding-bottom: 20px;
+}
+
+.logo {
+    padding: 16px;
+}
+
+.logo-icon {
+    vertical-align: text-bottom;
+    margin-right: 12px;
+}
+
+.version {
+    color: #444;
+    font-size: 13px;
+}
+
+.flex-container {
+    display: flex;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.flex {
+    opacity: 1;
+    transition: opactiy 0.2s ease-in-out;
+    width: 120px;
+}
+
+.flex:hover {
+    opacity: 0.4;
+}
+
+i {
+    font-size: 40px;
+    color: #6dbefc;
+}
+
+.credits {
+    text-align: center;
+    padding-right: 20px;
+    color: #444;
+    font-size: 13px;
+    font-family: 'Menlo', monospace;
+    padding-bottom: 3.5px;
+}
