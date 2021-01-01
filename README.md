@@ -66,5 +66,5 @@ SOFTWARE.
 ## Author Info
 
 - Linkedin - [@minsookime](https://www.linkedin.com/in/minsookime/)
-- Website - [Minsoo Kim](minsooerickim.github.io)
+- Website - [Minsoo Kim](https://minsooerickim.github.io/)
 
