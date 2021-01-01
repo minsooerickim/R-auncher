@@ -1,6 +1,6 @@
 # R-auncher
 
-![Project Image](/proofChrome.PNG)
+![Project Image](/proofChrome.png)
 
 ---
 
