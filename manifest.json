@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "R'auncher",
+    "name": "UCR R'auncher",
     "description": "R'auncher provides shortcuts to R'web, Schedule, R'mail, iLearn/Blackboard!",
     "version": "1.0.1",
     "icons": {"128": "128x128.png"},
